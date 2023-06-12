@@ -1,7 +1,8 @@
 # Automation-Testing-Projects
 
 ## *1.* *Ecommerce-Product Search to Order Placement & Tracking*
-![Logo](1.%20Ecommerce-Product%20Search%20to%20Order%20Placement%20%26%20Tracking/logo.jpeg)
+<img src="1.%20Ecommerce-Product%20Search%20to%20Order%20Placement%20%26%20Tracking/logo.jpeg" width=120 height=120>
+
 **AppleGadgets** is an eCommerce platform.
 
 ## This Program Will
@@ -15,12 +16,12 @@
 - Get the Tracking Number
 - Track the Order using Tracking Number in Order Tracking Page
 ## Screen Reecord
-![Screen Record Here](1.%20Ecommerce-Product%20Search%20to%20Order%20Placement%20%26%20Tracking/Screen%20Record/ScreenRecord.mp4)
+https://github.com/eemmooonn/Automation-Testing-Projects/assets/71758400/9c7cd609-4edc-422e-9423-ad9fb0872afb
 
 
 ## *2.* *Google Search Automation Based on The Excel File*
-![Logo](/2.%20Google%20Search%20Automation%20Based%20on%20The%20Excel%20File/logo/googleSearchLogo.jpg)
-![Logo](/2.%20Google%20Search%20Automation%20Based%20on%20The%20Excel%20File/logo/excelLogo.png)
+<img src="/2.%20Google%20Search%20Automation%20Based%20on%20The%20Excel%20File/logo/googleSearchLogo.jpg" width=200 height=100><img src="/2.%20Google%20Search%20Automation%20Based%20on%20The%20Excel%20File/logo/excelLogo.png" width=70 height=70>
+
 
 This program will automate Google Search Based on The Given Excel File. These are the follwing things it will do:
 
