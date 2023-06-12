@@ -1,0 +1,41 @@
+1. Go to url(https://www.applegadgetsbd.com)
+2. Find the search input field(xpath: //input[@type='search'])
+3. Input the search item name("iPhone 13")
+4. Find Search Icon (xpath: //button[@type='submit'])
+5. Click on Search Icon
+6. Select Stroage "128GB" (xpath: //input[@id='filter_item_436']) and Click
+7. Click on item (xpath: //body/div[@id='__next']/section[1]/div[1]/div[2]/div[2]/div[1])
+8. Find Color "Green" (xpath: //div[@data-tip='Green']) and Click
+9. Find Button "Add to Cart" and Click (xpath: //body/div[@id='__next']/div[@id='product']/section[1]/div[2]/div[2]/div[9]/div[1]/button[2])
+10. Find "Cart" and Click (xpath: //div[@class='text-white']//p[contains(text(),'Cart')])
+11. Find "CHECK OUT" button and click (xpath: //button[contains(text(),'Check out')])
+12. Find First Name Field (xpath: //input[@name='first_name'])
+13. Input First Name(Test)
+14. Find Last Name Field (xpath: //input[@name='last_name'])
+15. Input Last Name(Automation)
+16. Find Email Field (xpath: //input[@name='email'])
+17. Input email(test@gmail.com)
+18. Find Phone Number Field (xpath: //input[@name='phone'])
+19. Input Phone Number(01812345678)
+20. Find Devision Field (xpath: //select[@id='division'])
+21. Choose Division "Dhaka"
+22. Find City Field (xpath: //select[@id='city'])
+23. Choose City "Dhaka Metro"
+24. Find Area Field (xpath: //select[@id='area'])
+25. Choose Area "Gulshan"
+26. Find Delivery Type Field (xpath: //select[@name='delivery_type'])
+27. Choose Delivery Type "On Day Delivery [In Side Dhaka & Conditional]"  or value="7"
+28. Find Address 1 Field (xpath: //input[@name='address_1'])
+29. Input Address 1 "Road No:7, House Number:8, Gulshan, Dhaka"
+30. Find Cash on Delivery Radio Button (xpath: //input[@id='payment-1'])
+31. Select "Cash on Delivery" Radio Button
+32. Find "Place Order" Button (xpath: //button[contains(text(),'Place Order')])
+33. Click on "Place Order" Button
+34. Find "Your order id is: xxxxx" element (xpath: //p[@class='text-primary text-tiny'])
+35. Find actual "Order Id" from "Your order id is: xxxxx" Text
+36. Find Footer Element "Order Tracking" (xpath: //a[contains(text(),'Order Tracking')])
+37. Click on "Order Tracking"
+38. Find "Enter order id" field (xpath: //input[@id='orderId'])
+39. Insert the Order Id
+40. Find Search Icon next to the Order Id Field (xpath: //body/div[@id='__next']/section[1]/form[1]/div[1]/button[1])
+41. click on Search Icon
